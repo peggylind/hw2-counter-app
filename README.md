@@ -1,1 +1,1 @@
-# hw2-counter-app
+# HW2 Template
