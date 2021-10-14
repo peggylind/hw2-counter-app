@@ -1,4 +1,5 @@
-# hw2-boilerplate-app
+
+# HW2 Template
 
 ## Project setup
 ```
@@ -22,3 +23,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
